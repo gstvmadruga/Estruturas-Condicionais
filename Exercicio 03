@@ -1,4 +1,4 @@
-import calculadora;
+import Calculadora;
 
 public class CalculadoraSimples {
     public static void main(String[] args) {
