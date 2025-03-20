@@ -1,4 +1,4 @@
-import verificacao;
+import Verificacao;
 
 public class ParOuImpar {
     public static void main(String[] args) {
