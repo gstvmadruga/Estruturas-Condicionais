@@ -1,4 +1,4 @@
-import classificacaoIdade;
+import ClassificacaoIdade;
 
 public class ClassificacaoIdade {
     public static void main(String[] args) {
